@@ -22,7 +22,7 @@ kubectl apply -f https://raw.githubusercontent.com/tektoncd/catalog/main/task/so
 
 #### Parameters
 
-The cli has it's own default parameters.  This task inherets the default parameters for the CLI.  To learn more about the default parameters, visit the cli documentation at [Nexus IQ CLI Docs](https://hub.docker.com/r/sonatype/nexus-iq-cli).
+The CLI has it's own default parameters.  This task inherets the default parameters for the CLI.  To learn more about the default parameters, visit the CLI documentation at [Nexus IQ CLI Docs](https://hub.docker.com/r/sonatype/nexus-iq-cli).
 
 name                        | description                                                                                                   | required  | default
 ---------                   | -------------------------------------------                                                                   | --------  | -------
