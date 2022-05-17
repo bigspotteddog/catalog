@@ -11,7 +11,7 @@ metadata:
     tekton.dev/displayName: "Sonatype Nexus Lifecycle Scan"
 spec:
   description: >-
-    This task uses the Sonatype Nexus IQ cli to invoke a Nexus Lifecycle scan.
+    This task uses the Sonatype Nexus IQ CLI to invoke a Nexus Lifecycle scan.
     
   params:
     - default: ''
